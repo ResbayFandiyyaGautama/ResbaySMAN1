@@ -27,7 +27,7 @@
 
                                 Jika ada pertanyaan lebih lanjut, Silahkan menghubungi kami.<br>
 
-                                Terima kasih atas pengertiannya.
+                                Terima kasih atas pengerti
                             </p>
                         </div>
                     </div>
